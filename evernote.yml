@@ -1,0 +1,15 @@
+## YAML Template.
+---
+
+sandbox:
+  consumer_key: 
+  consumer_secret:
+  username: 
+  password:
+
+live:
+  consumer_key:
+  consumer_secret:
+  username: 
+  password:
+

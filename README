@@ -1,0 +1,11 @@
+== evernote-import
+
+Some scripts to bulk import data from CSV and XML to Evernote.  Most of it beingold diaries. :-)
+
+gem install htmlentities
+gem install evernote
+gem install feedtools
+
+???
+
+PROFIT!!!
